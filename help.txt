@@ -1,0 +1,8 @@
+Usage: ./cook.sh COMMAND [PARAMETER]...
+with the following possibilities:
+./cook.sh help # Show help
+./cook.sh ingredients RECIPE # List all the ingredient neededs for the recipes of the menu
+./cook.sh list # List all the recipes available
+./cook.sh menu RECIPE... # Show the menu
+./cook.sh search INGREDIENT # List all the recipes that contain the ingredient INGREDIENT
+./cook.sh tools RECIPE . # List all the tools neededs for the recipes of the menu
